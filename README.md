@@ -4,7 +4,7 @@ A php script to send an e-mail to your personal e-mail adress from a HTML form.
 You case use it free and for what you want, you can also Fork and send Pull request :bangbang:
 
 #How to use
-It's simple, you only need this two files to perform the mailScript.
+It's simple, you only need these two files to perform the mailScript.
 - mailForm.html 
 - mailScript.php
 
