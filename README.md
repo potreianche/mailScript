@@ -5,9 +5,9 @@ You can get a demo here >> http://baptiste-dumortier.fr/mailScript/mailForm.php
 
 You case use it free and for what you want, you can also Fork and send Pull request :bangbang:
 
-#How to use
+# How to use
 It's simple, you only need these two files to perform the mailScript.
-- mailForm.html 
+- mailForm.php 
 - mailScript.php
 
 mailForm.php is your formular, you can inculde it to your project but you can also change what you want if you know what you are doing with **input** or **textarea** 'name' attribute.
