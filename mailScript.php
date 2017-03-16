@@ -1,7 +1,7 @@
 <?php
   session_start();
 
-  $to       = "contact@baptiste-dumortier.fr";
+  $to       = "adress@domain.com";
   $subject  = $_POST['subject'];
   $message  = $_POST['firstname']." ".$_POST['lastname']."\r\n".
               $_POST['mail']."\r\n".
